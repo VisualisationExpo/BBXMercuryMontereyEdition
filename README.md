@@ -2,7 +2,7 @@
 BBX Mercury for modern macOS
 ## WELCOME TO BBX MERCURY FOR MACOS MONTEREY
 
-![preview](https://i.ibb.co/XpGnYKJ/preview.jpg?raw=true)
+![preview](https://user-images.githubusercontent.com/86615159/208348796-4ffa5c94-2876-4a95-adae-857c6a4ad957.jpg)
 
 ### THANK YOU! 😍 FOR DOWNLOADING THIS THEME ###
 
